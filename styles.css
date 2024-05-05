@@ -1,0 +1,13 @@
+body {
+    box-sizing: border-box;
+    height: 200rem;
+    background-color: #0E0510;
+    font-family: "Roboto Flex", sans-serif;
+    color:#FFF1E9;
+}
+
+
+
+h1 {
+    font-weight: 600;
+}
